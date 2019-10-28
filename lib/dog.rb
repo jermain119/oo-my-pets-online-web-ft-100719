@@ -16,4 +16,3 @@ class Dog
     @@all
   end
 end
-© 2019 GitHub, Inc.
